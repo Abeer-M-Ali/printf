@@ -90,8 +90,7 @@ Many other specifiers and flags were added and by combinig those the _printf() f
 | Name                | Information                        |
 |----------------|-------------------------------|
 | `_printf.c`	|formatted output conversion and print data.|
-
-| `main.h` | Header file with the data type struct, standard libraries and custom prototypes. |
+| `main.h` | Header file with the data type struct, standard libraries and custom prototypes. 	|
 | `ev_print_func.c`| returns the amount of identifiers.|
 | `fill_binary_array.c`| prints decimal in binary|
 | `fill_hex_array.c` | writes the character c to stdout | 
